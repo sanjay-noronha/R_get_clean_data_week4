@@ -21,7 +21,10 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 The repository includes the following files:
 =========================================
 - 'README.txt'
-- run_analysis.R : Contains code satisfying the requirements of the Course project
+- run_analysis.R : Contains code satisfying the requirements of the Course project. To run the code do the following:
+  - Open the R console
+  - source("run_analysis.R") 
+  - run_analysis() # By passing a TRUE value as parameter, the function will display debugging information
 - Code book descrbing the variables
 
 
