@@ -16,7 +16,7 @@ The repository includes the following files:
   - Open the R console
   - source("run_analysis.R") 
   - run_analysis() # By passing a TRUE value as parameter, the function will display debugging information
-- Code book descrbing the variables
+- Code book for the 3 main data frames using in the program
 
 
 The dataset includes the following files:
